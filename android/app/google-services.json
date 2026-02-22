@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736996245677",
+    "project_id": "app-project-6fc63",
+    "storage_bucket": "app-project-6fc63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736996245677:android:e664bfe861ced4dac90624",
+        "android_client_info": {
+          "package_name": "com.course.translator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2AiU0KyUHQJ5AaGBAEvAN9zHoWvr6hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
